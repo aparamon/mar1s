@@ -4,7 +4,7 @@ Title: Multiplicative AR(1) with Seasonal Processes
 Version: 2.1.1
 Date: 2018-08-17
 Author: Andrey Paramonov
-Maintainer: Andrey Paramonov <cmr.Pent@gmail.com>
+Maintainer: Andrey Paramonov <paramon@acdlabs.ru>
 Depends: cmrutils, fda, zoo
 Description: Multiplicative AR(1) with Seasonal is a stochastic
   process model built on top of AR(1). The package provides the
